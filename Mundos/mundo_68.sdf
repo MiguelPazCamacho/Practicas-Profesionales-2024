@@ -444,6 +444,12 @@
       <uri>https://fuel.gazebosim.org/1.0/OpenRobotics/models/Grey Wall</uri>
       <name>grey_wall_2</name>
     </include>
+    
+    <include>
+      <pose> 11 -2 0 0 0 1.57</pose>
+      <uri>https://fuel.gazebosim.org/1.0/OpenRobotics/models/Grey Wall</uri>
+      <name>grey_wall_3</name>
+    </include>
 
   </world>
 </sdf>
